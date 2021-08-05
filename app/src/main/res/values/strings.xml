@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Components</string>
+    <string name="accept">Aceptar</string>
+    <string name="cancel">Cancelar</string>
+</resources>
